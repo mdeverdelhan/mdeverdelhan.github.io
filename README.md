@@ -5,7 +5,11 @@ Personal Homepage
 
 ## 2017
 
-9782253160946
+L'étranger
+
+9782070709458 (La défaite de la pensée)
+
+9782253160946 (La fille du capitaine)
 
 Génie du christianisme
 
@@ -13,9 +17,9 @@ Génie du christianisme
 
 Carnet d'un vaincu
 
-9791091447270 la France OM isbn
+9791091447270 (La France Orange Mécanique)
 
-2877061302 sire ISBN
+9782877061308 (Sire)
 
 Sept cavaliers
 
