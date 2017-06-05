@@ -15,7 +15,7 @@ Génie du christianisme
 
 ## 2016
 
-Carnet d'un vaincu
+9782851816979 (Carnets d'un vaincu : scolies pour un texte implicite)
 
 9791091447270 (La France Orange Mécanique)
 
@@ -23,7 +23,7 @@ Carnet d'un vaincu
 
 Sept cavaliers
 
-Une place pour le père
+9782757810644 (Une place pour le père)
 
 ## 2015
 
