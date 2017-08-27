@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2017
 
+9782253037385 (Le bouc émissaire)
+
 La colline inspirée
 
 Pour en sortir, ce qu'il faut à la France
