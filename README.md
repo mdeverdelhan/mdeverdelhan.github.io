@@ -29,7 +29,7 @@ Génie du christianisme
 
 9782877061308 (Sire)
 
-Sept cavaliers
+Sept cavaliers quittèrent la ville au crépuscule par la porte de l'Ouest qui n'était plus gardée
 
 9782757810644 (Une place pour le père)
 
