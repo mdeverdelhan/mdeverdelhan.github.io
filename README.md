@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2017
 
+9782841004645 (Les déracinés)
+
 La grande peur des bien-pensants
 
 9782253037385 (Le bouc émissaire)
