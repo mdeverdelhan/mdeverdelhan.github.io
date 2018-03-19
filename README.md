@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2018
 
+9782220048338 (Le christianisme en accusation)
+
 Les dieux ont soif
 
 ## 2017
