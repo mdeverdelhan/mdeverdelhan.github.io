@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2018
 
+Les manants du Roi
+
 Sous le soleil de Satan
 
 9782220048338 (Le christianisme en accusation)
