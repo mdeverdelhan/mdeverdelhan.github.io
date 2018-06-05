@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2018
 
+9782264000705 (Une journée d'Ivan Denissovitch)
+
 Les manants du Roi
 
 Sous le soleil de Satan
