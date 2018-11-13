@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2018
 
+Histoire de France (Jacques Bainville, 1924)
+
 La puissance et la gloire
 
 9782940556823 (Histoire militaire de la Louisiane française et des guerres indiennes (1682-1804))
