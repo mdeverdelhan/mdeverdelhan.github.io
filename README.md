@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2018
 
+René Girard - _Des choses cachées depuis la fondation du monde_ (ISBN : 9782253032441)
+
 Jacques Bainville - _Histoire de France_ - Paris, 1924
 
 Graham Greene - _La puissance et la gloire_
