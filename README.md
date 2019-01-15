@@ -3,6 +3,10 @@ Personal Homepage
 
 # books
 
+## 2019
+
+Sylvain Tesson - _Berezina_ - Gallimard, 2016 (ISBN : 9782070466771)
+
 ## 2018
 
 René Girard - _Des choses cachées depuis la fondation du monde_ (ISBN : 9782253032441)
