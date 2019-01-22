@@ -21,7 +21,7 @@ Bernard Lugan - _Histoire militaire de la Louisiane française et des guerres in
 
 Baron de la Tousche d'Avrigny - _Monsieur Henri. Henri de la Rochejaquelein 1772-1794_ - Emile-Paul, 1948
 
-Henri Massis - _Maurras et notre temps_
+Henri Massis - _Maurras et notre temps_ - La Palatine, 1951
 
 Alexandre Soljenitsyne - _Une journée d'Ivan Denissovitch_ (ISBN : 9782264000705)
 
