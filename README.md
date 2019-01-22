@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2019
 
+Gustave Thibon - _Retour au réel - Nouveaux Diagnostics_ - Lyon, Lardanchet, 1943
+
 Sylvain Tesson - _Berezina_ - Gallimard, 2016 (ISBN : 9782070466771)
 
 ## 2018
