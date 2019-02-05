@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2019
 
+René Girard - _Les origines de la culture_ - Desclée de Brouwer, 2004 (ISBN : 9782220053554)
+
 Gustave Thibon - _Retour au réel. Nouveaux Diagnostics_ - Lyon, H. Lardanchet, 1943
 
 Sylvain Tesson - _Berezina_ - Gallimard, 2016 (ISBN : 9782070466771)
