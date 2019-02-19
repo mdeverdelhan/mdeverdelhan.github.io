@@ -5,6 +5,8 @@ Personal Homepage
 
 ## 2019
 
+Georges Bernanos - _Journal d'un curé de campagne_ - 1936
+
 René Girard - _Les origines de la culture_ - Desclée de Brouwer, 2004 (ISBN : 9782220053554)
 
 Gustave Thibon - _Retour au réel. Nouveaux Diagnostics_ - Lyon, H. Lardanchet, 1943
