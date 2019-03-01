@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Marc de Verdelhan
 
-You can use the [editor on GitHub](https://github.com/mdeverdelhan/mdeverdelhan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[[[]]]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Mon nom est **Marc de Verdelhan**. Bienvenue! Vous venez d'arriver sur ma page.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Je suis **consultant indépendant** sur le secteur de [Montpellier](https://fr.wikipedia.org/wiki/Montpellier). Je propose mon expertise en architecture et développement logiciel aux clients grands comptes de ma région.
 
-```markdown
-Syntax highlighted code block
+Vous pouvez me joindre via les réseaux sociaux [LinkedIn](https://www.linkedin.com/in/marcdeverdelhan/), [Viadeo](http://fr.viadeo.com/fr/profile/marc.de-verdelhan) ou [Twitter](https://twitter.com/MarcdeVerdelhan) (ou par e-mail, à l'adresse <marc.deverdelhan@yahoo.com>).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Autres choses
 
-1. Numbered
-2. List
+  * [Contributions *open-source* sur GitHub](http://github.com/mdeverdelhan)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdeverdelhan/mdeverdelhan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  * [Lectures](readings)
+ 
+  * [Recherches généalogiques sur la famille des Verdelhan](famille-verdelhan/)
