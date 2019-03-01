@@ -1,9 +1,6 @@
-# mdeverdelhan.github.io
-Personal Homepage
+# Lectures
 
-# books
-
-## 2019
+### 2019
 
 Georges Bernanos - _Journal d'un curé de campagne_ - 1936
 
@@ -13,7 +10,7 @@ Gustave Thibon - _Retour au réel. Nouveaux Diagnostics_ - Lyon, H. Lardanchet, 
 
 Sylvain Tesson - _Berezina_ - Gallimard, 2016 (ISBN : 9782070466771)
 
-## 2018
+### 2018
 
 René Girard - _Des choses cachées depuis la fondation du monde_ (ISBN : 9782253032441)
 
@@ -37,7 +34,7 @@ René Rémond - _Le christianisme en accusation_ - Desclée de Brouwer, 2000 (IS
 
 Anatole France - _Les dieux ont soif_
 
-## 2017
+### 2017
 
 Maurice Barrès - _Les déracinés_ (ISBN : 9782841004645)
 
@@ -57,7 +54,7 @@ Alexandre Pouchkine - _La fille du capitaine_ (ISBN : 9782253160946)
 
 François-René de Chateaubriand - _Génie du christianisme_
 
-## 2016
+### 2016
 
 Nicolás Gómez Dávila - _Carnets d'un vaincu. Scolies pour un texte implicite_ - 2009 (ISBN : 9782851816979)
 
@@ -69,7 +66,7 @@ Jean Raspail - _Sept cavaliers quittèrent la ville au crépuscule par la porte 
 
 Aldo Naouri - _Une place pour le père_ - Points, 2008 (ISBN : 9782757810644)
 
-## 2015
+### 2015
 
 Alexandre Soljenitsyne - _L'archipel du Goulag_
 
