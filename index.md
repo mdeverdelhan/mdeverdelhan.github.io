@@ -1,7 +1,6 @@
 # Marc de Verdelhan
 
-[[[]]]
-
+![Marc de Verdelhan](res/banner.png)
 
 Mon nom est **Marc de Verdelhan**. Bienvenue! Vous venez d'arriver sur ma page.
 
