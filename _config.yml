@@ -1,0 +1,13 @@
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/mdeverdelhan/mdeverdelhan.github.io"
+  
+title: verdelhan.eu
+description: Marc de Verdelhan's home page
