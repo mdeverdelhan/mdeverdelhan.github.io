@@ -1,6 +1,7 @@
-# Marc de Verdelhan
 
 ![Marc de Verdelhan](res/banner.png)
+
+## Marc de Verdelhan
 
 Mon nom est **Marc de Verdelhan**. Bienvenue! Vous venez d'arriver sur ma page.
 
