@@ -2,6 +2,8 @@
 
 ### 2019
 
+René Girard - _Achever Clausewitz_ - Flammarion, 2011 (ISBN : 9782081226395)
+
 Georges Bernanos - _Journal d'un curé de campagne_ - 1936
 
 René Girard - _Les origines de la culture_ - Desclée de Brouwer, 2004 (ISBN : 9782220053554)
