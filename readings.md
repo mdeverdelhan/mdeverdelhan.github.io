@@ -2,6 +2,8 @@
 
 ### 2019
 
+Jean Lartéguy - _Les baladins de la Margeride_ - 1962
+
 René Girard - _Achever Clausewitz_ - Flammarion, 2011 (ISBN : 9782081226395)
 
 Georges Bernanos - _Journal d'un curé de campagne_ - 1936
