@@ -2,6 +2,8 @@
 
 ### 2019
 
+Pierre Drieu la Rochelle - _Le feu follet_ - 1931
+
 Jean Lartéguy - _Les baladins de la Margeride_ - 1962
 
 René Girard - _Achever Clausewitz_ - Flammarion, 2011 (ISBN : 9782081226395)
