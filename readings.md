@@ -2,7 +2,7 @@
 
 ### 2019
 
-Pierre Drieu la Rochelle - _Le feu follet_ - 1931
+Pierre Drieu la Rochelle - _Le feu follet_, suivi de _Adieu à Gonzague_ - 1967
 
 Jean Lartéguy - _Les baladins de la Margeride_ - 1962
 
