@@ -2,6 +2,8 @@
 
 ### 2019
 
+Benoît Chantre - _Les derniers jours de René Girard_ - Grasset, 2016 (ISBN : 9782246862314)
+
 Charles Maurras - _Enquête sur la Monarchie_, suivie de _Une campagne royaliste au « Figaro »_ et _Si le coup de force est possible_ - Paris, Nouvelle Librairie Nationale, 1925
 
 Pierre Drieu la Rochelle - _Le feu follet_, suivi de _Adieu à Gonzague_ - 1967
