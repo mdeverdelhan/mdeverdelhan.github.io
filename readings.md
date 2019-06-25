@@ -80,3 +80,13 @@ Aldo Naouri - _Une place pour le père_ - Points, 2008 (ISBN : 9782757810644)
 
 Alexandre Soljenitsyne - _L'archipel du Goulag_
 
+## Liste de lecture
+
+  * _La divine comédie_ (Dante)
+  * _Don Quichotte_ (Cervantes)
+  * Céline
+  * Houelbecq
+  * _Mensonge romantique et vérité romanesque_ (Girard)
+  * _La violence et le sacré_ (Girard)
+  * _Somme théologique_ (Thomas d'Aquin)
+  * _Le Roi des aulnes_ (Michel Tournier)
