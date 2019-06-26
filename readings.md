@@ -90,3 +90,15 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _La violence et le sacré_ (Girard)
   * _Somme théologique_ (Thomas d'Aquin)
   * _Le Roi des aulnes_ (Michel Tournier)
+  * _Le choc des civilisations_ (Samuel Huntington)
+  * _Mai 68, l'héritage impossible_ (Jean-Pierre Le Goff)
+  * _Memoires de Saint-Simon_
+  * Dumas
+  * _Les misérables_ (Victor Hugo)
+  * _Testament politique_ (Richelieu)
+  * _Les décombres_ (Lucien Rebatet)
+  * _L'homme sans qualités_ (Robert Musil)
+  * _Récits de Kolyma_ (Varlam Chalamov)
+  * _Les frères Karamazov_ (Dostoïevski)
+  * _Mémoires d'outre-tombe_ (Chateaubriand)
+  * J. de Maistre
