@@ -102,3 +102,5 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _Les frères Karamazov_ (Dostoïevski)
   * _Mémoires d'outre-tombe_ (Chateaubriand)
   * J. de Maistre
+  * Charles Péguy
+  
