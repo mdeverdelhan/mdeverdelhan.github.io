@@ -103,4 +103,9 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _Mémoires d'outre-tombe_ (Chateaubriand)
   * J. de Maistre
   * Charles Péguy
+  * Roger Nimier
+  * Michel Déon
+  * _Les racines du ciel_ (Romain Gary)
+  * _Le premier cerle_ (Soljenitsyne)
+  * Hannah Arendt
   
