@@ -85,7 +85,7 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _La divine comédie_ (Dante)
   * _Don Quichotte_ (Cervantes)
   * Céline
-  * Houelbecq
+  * Houellebecq
   * _Mensonge romantique et vérité romanesque_ (Girard)
   * _La violence et le sacré_ (Girard)
   * _Somme théologique_ (Thomas d'Aquin)
@@ -108,4 +108,5 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _Les racines du ciel_ (Romain Gary)
   * _Le premier cerle_ (Soljenitsyne)
   * Hannah Arendt
+  * François Mauriac
   
