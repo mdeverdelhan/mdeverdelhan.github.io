@@ -112,4 +112,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * Hannah Arendt
   * François Mauriac
   * _La vie devant soi_ (Emile Ajar)
+  * _Le Leviathan_ (Thomas Hobbes)
+  * _La ferme des animaux_ (Orwell)
   
