@@ -2,6 +2,8 @@
 
 ### 2019
 
+Henri Troyat - _L'Araigne_ - Plon, 1938
+
 Jean Raspail - _La miséricorde_ - Équateurs, 2019 (ISBN : 9782849905968)
 
 Benoît Chantre - _Les derniers jours de René Girard_ - Grasset, 2016 (ISBN : 9782246862314)
