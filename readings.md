@@ -2,6 +2,8 @@
 
 ### 2019
 
+Frantz Funck-Brentano - _Richelieu_ - Les vies illustres, Hachette, 1938
+
 Henri Troyat - _L'Araigne_ - Plon, 1938
 
 Jean Raspail - _La miséricorde_ - Équateurs, 2019 (ISBN : 9782849905968)
