@@ -2,6 +2,8 @@
 
 ### 2019
 
+Michel Tournier - _Le Roi des Aulnes_ - Gallimard, 1975 (ISBN : 9782070366569)
+
 Frantz Funck-Brentano - _Richelieu_ - Les vies illustres, Hachette, 1938
 
 Henri Troyat - _L'Araigne_ - Plon, 1938
