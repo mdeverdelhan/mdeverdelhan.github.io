@@ -97,7 +97,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _Mensonge romantique et vérité romanesque_ (Girard)
   * _La violence et le sacré_ (Girard)
   * _Somme théologique_ (Thomas d'Aquin)
-  * _Le Roi des aulnes_ (Michel Tournier)
   * _Le choc des civilisations_ (Samuel Huntington)
   * _Mai 68, l'héritage impossible_ (Jean-Pierre Le Goff)
   * _Memoires de Saint-Simon_
