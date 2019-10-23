@@ -2,6 +2,8 @@
 
 ### 2019
 
+Simone Weil - _L'Enracinement, prélude à une déclaration des devoirs envers l'être humain_ - Gallimard, 1949
+
 Michel de Saint Pierre - _Les Aristocrates_ - La Table Ronde, 1954
 
 Michel Tournier - _Le Roi des Aulnes_ - Gallimard, 1975 (ISBN : 9782070366569)
