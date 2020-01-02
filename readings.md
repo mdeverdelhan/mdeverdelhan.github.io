@@ -1,5 +1,9 @@
 # Lectures
 
+### 2020
+
+Nicolás Gómez Dávila - _Les Horreurs de la démocratie_ - Éditions du Rocher, 2003 (ISBN : 9782268044675)
+
 ### 2019
 
 Simone Weil - _L'Enracinement, prélude à une déclaration des devoirs envers l'être humain_ - Gallimard, 1949
@@ -78,7 +82,7 @@ François-René de Chateaubriand - _Génie du christianisme_
 
 ### 2016
 
-Nicolás Gómez Dávila - _Carnets d'un vaincu. Scolies pour un texte implicite_ - 2009 (ISBN : 9782851816979)
+Nicolás Gómez Dávila - _Carnets d'un vaincu. Scolies pour un texte implicite_ - L'Arche, 2009 (ISBN : 9782851816979)
 
 Laurent Obertone - _La France Orange Mécanique_ - RING, 2015 (ISBN : 9791091447270)
 
