@@ -129,4 +129,5 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _La vie devant soi_ (Emile Ajar)
   * _Le Leviathan_ (Thomas Hobbes)
   * _La ferme des animaux_ (Orwell)
+  * _De la démocratie en Amérique_ (Tocqueville)
   
