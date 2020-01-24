@@ -2,6 +2,8 @@
 
 ### 2020
 
+Cardinal de Richelieu - _Testament politique_ - Robert Laffont, 1947
+
 Patrice Jean - _L'homme surnuméraire_ - Rue Fromentin, 2017 (ISBN : 9782919547524)
 
 Nicolás Gómez Dávila - _Les Horreurs de la démocratie_ - Éditions du Rocher, 2003 (ISBN : 9782268044675)
