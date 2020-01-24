@@ -114,7 +114,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _Memoires de Saint-Simon_
   * Dumas
   * _Les misérables_ (Victor Hugo)
-  * _Testament politique_ (Richelieu)
   * _Les décombres_ (Lucien Rebatet)
   * _L'homme sans qualités_ (Robert Musil)
   * _Récits de Kolyma_ (Varlam Chalamov)
