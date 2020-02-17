@@ -132,4 +132,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _La ferme des animaux_ (Orwell)
   * _De la démocratie en Amérique_ (Tocqueville)
   * _Un paradoxe français_ (Epstein)
+  * Antoine de Saint-Exupéry
+  * Thucydide
   
