@@ -2,6 +2,8 @@
 
 ### 2020
 
+François Mauriac - _Le Mal_ - Arthème Fayard, 1955
+
 Cardinal de Richelieu - _Testament politique_ - Robert Laffont, 1947
 
 Patrice Jean - _L'homme surnuméraire_ - Rue Fromentin, 2017 (ISBN : 9782919547524)
