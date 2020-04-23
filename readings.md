@@ -2,6 +2,8 @@
 
 ### 2020
 
+Louis-Ferdinand Céline - _D'un château l'autre_ - 1957
+
 François Mauriac - _Le Mal_ - Arthème Fayard, 1955
 
 Cardinal de Richelieu - _Testament politique_ - Robert Laffont, 1947
