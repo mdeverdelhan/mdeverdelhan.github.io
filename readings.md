@@ -2,6 +2,8 @@
 
 ### 2020
 
+François-René de Chateaubriand - _Mémoires d'outre-tombe_
+
 Louis-Ferdinand Céline - _D'un château l'autre_ - 1957
 
 François Mauriac - _Le Mal_ - Arthème Fayard, 1955
