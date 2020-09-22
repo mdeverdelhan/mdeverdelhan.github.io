@@ -2,7 +2,7 @@
 
 ### 2020
 
-François-René de Chateaubriand - _Mémoires d'outre-tombe_ - 1847 (ISBN : 9782253160793, 9782253160809, ...)
+François-René de Chateaubriand - _Mémoires d'outre-tombe_ - 1847 (ISBN : 9782253160793, 9782253160809, 9782253160892, ...)
 
 Louis-Ferdinand Céline - _D'un château l'autre_ - 1957
 
