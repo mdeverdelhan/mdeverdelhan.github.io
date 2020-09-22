@@ -16,7 +16,7 @@ Nicolás Gómez Dávila - _Les Horreurs de la démocratie_ - Éditions du Rocher
 
 ### 2019
 
-Simone Weil - _L'Enracinement, prélude à une déclaration des devoirs envers l'être humain_ - Gallimard, 1949
+Simone Weil - _L'Enracinement_ - Gallimard, 1949
 
 Michel de Saint Pierre - _Les Aristocrates_ - La Table Ronde, 1954
 
@@ -124,7 +124,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _L'homme sans qualités_ (Robert Musil)
   * _Récits de Kolyma_ (Varlam Chalamov)
   * _Les frères Karamazov_ (Dostoïevski)
-  * _Mémoires d'outre-tombe_ (Chateaubriand)
   * J. de Maistre
   * _Notre jeunesse_ (Charles Péguy)
   * Roger Nimier
