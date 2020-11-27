@@ -2,6 +2,8 @@
 
 ### 2020
 
+Renaud Camus - _Répertoire des délicatesses du français contemporain_ - Points, 2009 (ISBN : 9782757810712)
+
 François-René de Chateaubriand - _Mémoires d'outre-tombe_ - 1847 (ISBN : 9782253160793, 9782253160809, 9782253160892, 9782253160908)
 
 Louis-Ferdinand Céline - _D'un château l'autre_ - 1957
