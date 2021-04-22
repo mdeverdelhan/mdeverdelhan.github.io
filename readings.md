@@ -1,5 +1,9 @@
 # Lectures
 
+### 2021
+
+Mathias Enard - _Le banquet annuel de la confrérie des fossoyeurs_ - Actes Sud, 2020 (ISBN : 9782330135508)
+
 ### 2020
 
 Renaud Camus - _Répertoire des délicatesses du français contemporain_ - Points, 2009 (ISBN : 9782757810712)
