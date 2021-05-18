@@ -2,6 +2,8 @@
 
 ### 2021
 
+Fiodor Dostoïevski - _L'éternel mari
+
 Mathias Enard - _Le banquet annuel de la confrérie des fossoyeurs_ - Actes Sud, 2020 (ISBN : 9782330135508)
 
 ### 2020
@@ -84,7 +86,7 @@ Georges Bernanos - _La grande peur des bien-pensants_
 
 René Girard - _Le bouc émissaire_ (ISBN : 9782253037385)
 
-Maurice Barrès - _La colline inspirée_
+Maurice Barrès - _La colline inspirée_ - 1913
 
 Charles Maurras - _Pour en sortir, ce qu'il faut à la France_
 
