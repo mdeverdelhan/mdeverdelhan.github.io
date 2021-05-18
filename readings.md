@@ -2,7 +2,7 @@
 
 ### 2021
 
-Fiodor Dostoïevski - _L'éternel mari
+Fiodor Dostoïevski - _L'éternel mari_
 
 Mathias Enard - _Le banquet annuel de la confrérie des fossoyeurs_ - Actes Sud, 2020 (ISBN : 9782330135508)
 
