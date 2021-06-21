@@ -2,6 +2,8 @@
 
 ### 2021
 
+Georges Bernanos - _Monsieur Ouine_ - 1946
+
 Stefan Lorant - _La vie d'Abraham Lincoln_ - 1962
 
 Fiodor Dostoïevski - _L'éternel mari_
