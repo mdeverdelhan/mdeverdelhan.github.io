@@ -2,6 +2,8 @@
 
 ### 2021
 
+Alexandre Soljenitsyne - _Le déclin du courage_ - 1978 (ISBN : 9782251200460)
+
 Georges Bernanos - _Monsieur Ouine_ - 1946
 
 Stefan Lorant - _La vie d'Abraham Lincoln_ - 1962
