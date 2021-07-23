@@ -78,7 +78,7 @@ Alexandre Soljenitsyne - _Une journée d'Ivan Denissovitch_ (ISBN : 978226400070
 
 Jean de la Varende - _Les manants du Roi_
 
-Georges Bernanos - _Sous le soleil de Satan_
+Georges Bernanos - _Sous le soleil de Satan_ - 1926
 
 René Rémond - _Le christianisme en accusation_ - Desclée de Brouwer, 2000 (ISBN : 9782220048338)
 
