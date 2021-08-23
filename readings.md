@@ -2,6 +2,8 @@
 
 ### 2021
 
+Jean de La Bruyère - _Les Caractères_ - Éditions du Rocher, 1996 (ISBN : 9782268022772)
+
 Alexandre Soljenitsyne - _Le déclin du courage_ - 1978 (ISBN : 9782251200460)
 
 Georges Bernanos - _Monsieur Ouine_ - 1946
