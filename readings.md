@@ -125,7 +125,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
 ## Liste de lecture
 
   * _L'homme éternel_ (Chesterton)
-  * _Les caractères_ (La Bruyère)
   * _La divine comédie_ (Dante)
   * _Don Quichotte_ (Cervantes)
   * Céline
