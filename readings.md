@@ -2,6 +2,8 @@
 
 ### 2021
 
+Fiodor Dostoïevski - _Le joueur_
+
 Jean de La Bruyère - _Les Caractères_ - Éditions du Rocher, 1996 (ISBN : 9782268022772)
 
 Alexandre Soljenitsyne - _Le déclin du courage_ - 1978 (ISBN : 9782251200460)
