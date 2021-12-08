@@ -2,6 +2,8 @@
 
 ### 2021
 
+Félicien Marceau - _En de secrètes noces_ - 1953
+
 Fiodor Dostoïevski - _Le joueur_
 
 Jean de La Bruyère - _Les Caractères_ - Éditions du Rocher, 1996 (ISBN : 9782268022772)
