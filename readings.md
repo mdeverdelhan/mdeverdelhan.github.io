@@ -2,6 +2,8 @@
 
 ### 2021
 
+George Orwell - _La Ferme des animaux_ - 1945
+
 Félicien Marceau - _En de secrètes noces_ - 1953
 
 Fiodor Dostoïevski - _Le joueur_
