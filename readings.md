@@ -161,7 +161,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * François Mauriac
   * _La vie devant soi_ (Emile Ajar)
   * _Le Leviathan_ (Thomas Hobbes)
-  * _La ferme des animaux_ (Orwell)
   * _De la démocratie en Amérique_ (Tocqueville)
   * _Un paradoxe français_ (Epstein)
   * Antoine de Saint-Exupéry
