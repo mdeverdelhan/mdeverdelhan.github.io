@@ -2,6 +2,8 @@
 
 ### 2022
 
+Ismaïl Kadaré - _Le Général de l'armée morte_ - Albin Michel, France Loisirs, 1983
+
 2021 (ISBN : 9782491446468)
 
 ### 2021
