@@ -1,10 +1,16 @@
 # Lectures
 
+### 2023
+
+Georges Bernanos - _Un crime_ - Plon, 1935
+
+Walter Scott - _Ivanohé_ - 1819
+
 ### 2022
 
 Ismaïl Kadaré - _Le Général de l'armée morte_ - Albin Michel, France Loisirs, 1983 (ISBN : 2724216075)
 
-2021 (ISBN : 9782491446468)
+Renaud Camus - _Le Grand Remplacement. Introduction au remplacisme global_ - La Nouvelle Librairie, 2021 (ISBN : 9782491446468)
 
 ### 2021
 
