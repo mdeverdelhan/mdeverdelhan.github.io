@@ -2,6 +2,8 @@
 
 ### 2023
 
+Jean Carrière - _L'épervier de Maheux_ - Jean-Jacques Pauvert, 1972
+
 Georges Bernanos - _Un crime_ - Plon, 1935
 
 Walter Scott - _Ivanohé_ - 1819
