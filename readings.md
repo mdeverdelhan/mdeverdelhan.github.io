@@ -2,6 +2,8 @@
 
 ### 2023
 
+Michel de Saint Pierre - _Je reviendrai sur les ailes de l'aigle_ - La Table Ronde, 1975 (ISBN : 9782710323211)
+
 Jean Carrière - _L'épervier de Maheux_ - Jean-Jacques Pauvert, 1972
 
 Georges Bernanos - _Un crime_ - Plon, 1935
