@@ -1,5 +1,9 @@
 # Lectures
 
+### 2024
+
+Georges Bernanos - _Nouvelle histoire de Mouchette_ - 1937
+
 ### 2023
 
 Michel de Saint Pierre - _Je reviendrai sur les ailes de l'aigle_ - La Table Ronde, 1975 (ISBN : 9782710323211)
