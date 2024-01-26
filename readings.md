@@ -2,6 +2,8 @@
 
 ### 2024
 
+Paul Murray Kendall - _Louis XI_ - Arthème Fayard, France-Loisirs, 1977 (ISBN : 2724200225)
+
 Georges Bernanos - _Nouvelle histoire de Mouchette_ - 1937
 
 ### 2023
