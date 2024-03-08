@@ -2,7 +2,7 @@
 
 ### 2024
 
-Alexandre Dumas - _Le Comte de Monte-Cristo_
+Alexandre Dumas - _Le Comte de Monte-Cristo_ - Le Livre de Poche, 1995 (ISBN : 9782253098058, 9782253098065)
 
 Paul Murray Kendall - _Louis XI_ - Arthème Fayard, France-Loisirs, 1977 (ISBN : 2724200225)
 
