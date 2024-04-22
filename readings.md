@@ -156,7 +156,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
 
 ## Liste de lecture
 
-  * _Les maîtres de granit_ (Yves Pourcher)
   * _L'homme éternel_ (Chesterton)
   * _La divine comédie_ (Dante)
   * _Don Quichotte_ (Cervantes)
