@@ -2,6 +2,8 @@
 
 ### 2024
 
+Georges Bernanos - _Dialogues des Carmélites_ - Points, Éditions du Seuil, 1984 (ISBN : 9782020066891)
+
 Yves Pourcher - _Les maîtres de granit. Les notables de Lozère du XVIIIe siècle à nos jours_ - Olivier Orban, 1987 (ISBN : 9782855653921)
 
 Alexandre Dumas - _Le Comte de Monte-Cristo_ - Le Livre de Poche, 1995 (ISBN : 9782253098058, 9782253098065)
