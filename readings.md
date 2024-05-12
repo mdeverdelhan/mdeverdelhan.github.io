@@ -2,6 +2,8 @@
 
 ### 2024
 
+Renaud Camus - _Le Département de l'Hérault_ - P.O.L, 1999 (ISBN : 9782867446337)
+
 Georges Bernanos - _Dialogues des Carmélites_ - Points, Éditions du Seuil, 1984 (ISBN : 9782020066891)
 
 Yves Pourcher - _Les maîtres de granit. Les notables de Lozère du XVIIIe siècle à nos jours_ - Olivier Orban, 1987 (ISBN : 9782855653921)
