@@ -191,4 +191,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _Un paradoxe français_ (Epstein)
   * Antoine de Saint-Exupéry
   * Thucydide
+  * _Le sang noir_ (Guilloux)
+  * Vie du chien Horla
   
