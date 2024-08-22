@@ -2,6 +2,8 @@
 
 ### 2024
 
+Gilbert Keith Chesterton - _Hérétiques_ - Paris, Librairie Plon, 1930
+
 Renaud Camus - _Le Département de l'Hérault_ - P.O.L, 1999 (ISBN : 9782867446337)
 
 Georges Bernanos - _Dialogues des Carmélites_ - Points, Éditions du Seuil, 1984 (ISBN : 9782020066891)
