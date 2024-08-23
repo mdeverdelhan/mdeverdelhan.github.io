@@ -2,6 +2,8 @@
 
 ### 2024
 
+Renaud Camus - _Vie du chien Horla_ - P.O.L, 2003 (ISBN : 9782867449536)
+
 Gilbert Keith Chesterton - _Hérétiques_ - Paris, Librairie Plon, 1930
 
 Renaud Camus - _Le Département de l'Hérault_ - P.O.L, 1999 (ISBN : 9782867446337)
