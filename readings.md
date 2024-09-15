@@ -2,6 +2,8 @@
 
 ### 2024
 
+Louis Madelin - _Talleyrand_
+
 Renaud Camus - _Vie du chien Horla_ - P.O.L, 2003 (ISBN : 9782867449536)
 
 Gilbert Keith Chesterton - _Hérétiques_ - Paris, Librairie Plon, 1930
