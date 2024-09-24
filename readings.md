@@ -2,6 +2,8 @@
 
 ### 2024
 
+Renaud Camus - _La dictature de la petite bourgeoisie_
+
 Louis Madelin - _Talleyrand_ - Marabout, 1984 (ISBN : 9782501004596)
 
 Renaud Camus - _Vie du chien Horla_ - P.O.L, 2003 (ISBN : 9782867449536)
