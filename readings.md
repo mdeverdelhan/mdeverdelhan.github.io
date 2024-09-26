@@ -2,7 +2,7 @@
 
 ### 2024
 
-Renaud Camus - _La dictature de la petite bourgeoisie_ Éditions Privat, 2005 (ISBN : 9782708944220)
+Renaud Camus - _La dictature de la petite bourgeoisie_ - Éditions Privat, 2005 (ISBN : 9782708944220)
 
 Louis Madelin - _Talleyrand_ - Marabout, 1984 (ISBN : 9782501004596)
 
