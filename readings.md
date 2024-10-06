@@ -2,6 +2,8 @@
 
 ### 2024
 
+Renaud Camus - _Le Département de la Lozère_ - P.O.L, 1996 (ISBN : 9782867445118)
+
 Renaud Camus - _La dictature de la petite bourgeoisie_ - Éditions Privat, 2005 (ISBN : 9782708944220)
 
 Louis Madelin - _Talleyrand_ - Marabout, 1984 (ISBN : 9782501004596)
