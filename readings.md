@@ -1,5 +1,8 @@
 # Lectures
 
+### 2025
+
+
 ### 2024
 
 Renaud Camus - _Le Département de la Lozère_ - P.O.L, 1996 (ISBN : 9782867445118)
@@ -202,4 +205,5 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * Antoine de Saint-Exupéry
   * Thucydide
   * _Le sang noir_ (Guilloux)
+  * Bossuet
   
