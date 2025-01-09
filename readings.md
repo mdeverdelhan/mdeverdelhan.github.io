@@ -206,4 +206,5 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * Thucydide
   * _Le sang noir_ (Guilloux)
   * Bossuet
+  * Philippe Muray
   
