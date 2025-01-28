@@ -2,6 +2,7 @@
 
 ### 2025
 
+Léon Bloy - Le désespéré - Paris, Mercure de France, 1946
 
 ### 2024
 
