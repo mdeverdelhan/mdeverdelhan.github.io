@@ -2,7 +2,9 @@
 
 ### 2025
 
-Léon Bloy - Le désespéré - Paris, Mercure de France, 1946
+Charles Maurras - _Entre de Louvre et la Bastille_ - Paris, Les Éditions du Cadran, 1931
+
+Léon Bloy - _Le désespéré_ - Paris, Mercure de France, 1946
 
 ### 2024
 
