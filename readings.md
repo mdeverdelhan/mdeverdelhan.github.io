@@ -2,7 +2,7 @@
 
 ### 2025
 
-Charles Maurras - _Entre de Louvre et la Bastille_ - Paris, Les Éditions du Cadran, 1931
+Charles Maurras - _Entre le Louvre et la Bastille_ - Paris, Les Éditions du Cadran, 1931
 
 Léon Bloy - _Le désespéré_ - Paris, Mercure de France, 1946
 
