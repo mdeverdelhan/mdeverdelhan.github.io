@@ -2,6 +2,8 @@
 
 ### 2025
 
+René Girard - _Mensonge romantique et vérité romanesque_ - 1978
+
 Charles Maurras - _Entre le Louvre et la Bastille_ - Paris, Les Éditions du Cadran, 1931
 
 Léon Bloy - _Le désespéré_ - Paris, Mercure de France, 1946
@@ -181,7 +183,6 @@ Alexandre Soljenitsyne - _L'archipel du Goulag_
   * _Don Quichotte_ (Cervantes)
   * Céline
   * Houellebecq
-  * _Mensonge romantique et vérité romanesque_ (Girard)
   * _La violence et le sacré_ (Girard)
   * _Somme théologique_ (Thomas d'Aquin)
   * _Le choc des civilisations_ (Samuel Huntington)
