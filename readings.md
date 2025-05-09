@@ -2,7 +2,7 @@
 
 ### 2025
 
-René Girard - _Mensonge romantique et vérité romanesque_ - 1978
+René Girard - _Mensonge romantique et vérité romanesque_ - Pluriel, Le Livre de Poche, 1978
 
 Charles Maurras - _Entre le Louvre et la Bastille_ - Paris, Les Éditions du Cadran, 1931
 
