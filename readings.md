@@ -2,6 +2,8 @@
 
 ### 2025
 
+Renaud Camus - _Qu'il n'y a pas de problème de l'emploi_ - P.O.L, 1994 (ISBN : 2867444276)
+
 René Girard - _Mensonge romantique et vérité romanesque_ - Pluriel, Le Livre de Poche, 1978
 
 Charles Maurras - _Entre le Louvre et la Bastille_ - Paris, Les Éditions du Cadran, 1931
