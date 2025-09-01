@@ -2,7 +2,7 @@
 
 ### 2025
 
-R.P. Jean-Baptiste L'Ouvreleul - _Histoire du fanatisme renouvelé_ - Les Presses du Languedoc, 2001 (ISBN : 2859982477)
+R.P. Jean-Baptiste L'Ouvreleul - _Histoire du fanatisme renouvelé_ - Les Presses du Languedoc, 2001 (ISBN : 2859982477 / 9782859982478)
 
 Gilbert Keith Chesterton - _L'Homme éternel_ - Paris, Librairie Plon, 1927
 
