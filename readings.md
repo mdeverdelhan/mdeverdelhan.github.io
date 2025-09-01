@@ -2,6 +2,8 @@
 
 ### 2025
 
+R.P. Jean-Baptiste L'Ouvreleul - _Histoire du fanatisme renouvelé_ - Les Presses du Languedoc, 2001 (ISBN : 2859982477)
+
 Gilbert Keith Chesterton - _L'Homme éternel_ - Paris, Librairie Plon, 1927
 
 Renaud Camus - _Qu'il n'y a pas de problème de l'emploi_ - P.O.L, 1994 (ISBN : 2867444276)
