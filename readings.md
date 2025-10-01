@@ -2,6 +2,8 @@
 
 ### 2025
 
+David Ben Gourion - _Ben Gourion parle_ - La Guilde du Livre, 1971
+
 Blaise Cendrars - _La main coupée_ - Folio, Gallimard, 1975 (ISBN : 2070366197 / 9782070366194)
 
 R.P. Jean-Baptiste L'Ouvreleul - _Histoire du fanatisme renouvelé_ - Les Presses du Languedoc, 2001 (ISBN : 2859982477 / 9782859982478)
