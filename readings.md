@@ -2,6 +2,8 @@
 
 ### 2025
 
+Abel Bonnard - _Les Modérés - Le drame du présent_ - Paris, Livre-club du Labyrinthe, 1986 (ISBN : 2869800045)
+
 David Ben Gourion - _Ben Gourion parle_ - La Guilde du Livre, 1971
 
 Blaise Cendrars - _La main coupée_ - Folio, Gallimard, 1975 (ISBN : 2070366197 / 9782070366194)
