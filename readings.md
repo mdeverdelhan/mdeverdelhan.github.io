@@ -2,7 +2,7 @@
 
 ### 2025
 
-Abel Bonnard - _Les Modérés - Le drame du présent_ - Paris, Livre-club du Labyrinthe, 1986 (ISBN : 2869800045)
+Abel Bonnard - _Les modérés - Le drame du présent_ - Paris, Livre-club du Labyrinthe, 1986 (ISBN : 2869800045)
 
 David Ben Gourion - _Ben Gourion parle_ - La Guilde du Livre, 1971
 
