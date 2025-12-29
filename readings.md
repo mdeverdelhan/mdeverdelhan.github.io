@@ -2,6 +2,8 @@
 
 ### 2025
 
+Mireille Lassalle - _Mémoires de Louis au Domaine Chabrier_ - Éditions de la Fenestrelle, 2023 (ISBN : 9782378711276)
+
 Abel Bonnard - _Les modérés. Le drame du présent_ - Paris, Livre-club du Labyrinthe, 1986 (ISBN : 2869800045)
 
 David Ben Gourion - _Ben Gourion parle_ - La Guilde du Livre, 1971
