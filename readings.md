@@ -1,5 +1,9 @@
 # Lectures
 
+### 2026
+
+Patrick Cabanel - _Un village sous la Révocation de l'édit de Nantes_ - Passés composés, 2025 (ISBN : 9791040409847)
+
 ### 2025
 
 Mireille Lassalle - _Mémoires de Louis au Domaine Chabrier_ - Éditions de la Fenestrelle, 2023 (ISBN : 9782378711276)
