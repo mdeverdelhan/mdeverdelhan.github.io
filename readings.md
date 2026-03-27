@@ -2,6 +2,8 @@
 
 ### 2026
 
+Abbé Pierre Jean-Baptiste Delon - _Les Elections de 1789 en Gévaudan_ - Mende, Imprimerie Lozérienne, 1922
+
 Patrick Cabanel - _Un village sous la Révocation de l'édit de Nantes_ - Passés composés, 2025 (ISBN : 9791040409847)
 
 ### 2025
