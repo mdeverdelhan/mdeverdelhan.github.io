@@ -2,6 +2,8 @@
 
 ### 2026
 
+Jean-Bernard Elzière - _La correspondance de Marie-Felice de Budos, marquise de Portes, avec le Grand Condé_ - Renaissance du Château de Portes, 1975
+
 Abbé Pierre Jean-Baptiste Delon - _La Révolution en Lozère_ - Mende, Imprimerie Lozérienne, 1922
 
 Abbé Pierre Jean-Baptiste Delon - _Les Elections de 1789 en Gévaudan_ - Mende, Imprimerie Lozérienne, 1922
