@@ -2,6 +2,8 @@
 
 ### 2026
 
+Robert Poujol - _Bourreau ou martyr ? L'abbé du Chaila (1648 - 1702). Du Siam aux Cévennes_ - Presses du Languedoc / Editions O.E.I.L., 1986 (ISBN : 2859980261 / 2868390730)
+
 Jean-Bernard Elzière - _La correspondance de Marie-Felice de Budos, marquise de Portes, avec le Grand Condé_ - Renaissance du Château de Portes, 1975
 
 Abbé Pierre Jean-Baptiste Delon - _La Révolution en Lozère_ - Mende, Imprimerie Lozérienne, 1922
